@@ -13,4 +13,4 @@ push: null
 # pull section allows you to provide instructions for cloning this project in remote locations
 pull:
 - prefect.projects.steps.set_working_directory:
-    directory: /Users/kylekawczynski/Documents/2023_MLOps_ZoomCamp/Week_3-orchestration
+    directory: /Users/******/Documents/2023_MLOps_ZoomCamp/Week_3-orchestration
